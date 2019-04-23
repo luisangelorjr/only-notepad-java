@@ -1,3 +1,3 @@
 # only-notepad-java
 
-Repositóri para treino Code Kata somente com notepad
+Repositório para treino Code Kata somente com notepad (ou nano, ou VIM)
